@@ -2,13 +2,8 @@
 
 
 
-<p align="center"><a href="https://www.twitter.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a> </p>
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=shahibuzzaman"
-    alt="gargakshit"
-  />
-</p>
+<p align="center"><a href="https://www.twitter.com/shahibuzzaman"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/shahibuzzaman"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>  </p>
+
 
 I am a Full Stack Developer with 3+ years of experience in developing enterprise applications.
 
@@ -106,4 +101,11 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/roaldnefs/) for a more 
 <img src="https://github-readme-stats.vercel.app/api?username=shahibuzzaman&amp;show_icons=true" alt="GitHub Stats">
 <img src="https://github-profile-trophy.vercel.app/?username=shahibuzzaman">
 </details>
+
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=shahibuzzaman"
+    alt="gargakshit"
+  />
+</p>
 
