@@ -48,7 +48,7 @@ I am a Full Stack Developer with 3+ years of experience in developing enterprise
 In the overview below you will find my most recent work experience:
 
 
-[<img align="left" height="94px" width="140px" alt="Warpnet" src="https://i.postimg.cc/Nf2dmnmC/UBS-LOGO.jpg"/>](https://warpnet.nl/)
+[<img align="left" height="100px" width="140px" alt="Warpnet" src="https://i.postimg.cc/Nf2dmnmC/UBS-LOGO.jpg"/>](https://warpnet.nl/)
 
 **Software Engineer** \
 [**UNISOFT BUSINESS SOLUTIONS LTD.**](https://ubs-bd.com/) • Full-time (04/2019 - Present) \
