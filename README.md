@@ -52,7 +52,7 @@ In the overview below you will find my most recent work experience:
 
 **Software Engineer** \
 [**UNISOFT BUSINESS SOLUTIONS LTD.**](https://ubs-bd.com/) • Full-time (04/2019 - Present) \
-Languages & Technologies: `Python`, `JavaScript`, `React`, `React Native`, `Node.js`, `Express JS`, `Next.js`, `MySQL` ,`MongoDB` ,`GraphQL` \
+Languages & Technologies: `Python` `JavaScript` `React` `React Native` `Node.js` `Express JS` `Next.js` `MySQL` `MongoDB` `GraphQL` \
 Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-salt-lint](https://github.com/warpnet/vscode-salt-lint)
 <br/>
 
