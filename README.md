@@ -36,10 +36,20 @@ I am a Full Stack Developer with 3+ years of experience in developing enterprise
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="MUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
   <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
-  <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="sequelize" src="https://img.shields.io/badge/sequelize-323330?style=flat-square&logo=sequelize&logoColor=blue" />
   <img alt="jwt" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=flat-square&logo=json-web-tokens&logoColor=pink" />
   <img alt="jest" src="https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white" />
+  <img alt="firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white" />
+  <img alt="android-studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
+  <img alt="vs-code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+  <img alt="es-lint" src="https://img.shields.io/badge/eslint-3A33D1?style=flat-square&logo=eslint&logoColor=white" />
+  <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-squar&logo=swagger&logoColor=white" />
+  <img alt="amazonaws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-squar&logo=amazonaws&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-squar&logo=javascript&logoColor=F7DF1E" />
+  <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=flat-squar&logo=python&logoColor=white" />
+  
 </p>
 
 <div align="center">
