@@ -35,6 +35,35 @@ I am a Full Stack Developer with 3+ years of experience in developing enterprise
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+### Work Experience
+In the overview below you will find my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/kpn.jpeg?raw=true"/>](https://www.kpn.com/)
+
+**Senior Site Reliability Engineer (SRE)** \
+[**KPN**](https://www.kpn.com/) • Contract \
+Languages & Technologies: `RHEL`, `Python`, `Ansible`, `KSP` \
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://warpnet.nl/)
+
+**Software Engineer (SWE) and Site Reliability Engineer (SRE)** \
+[**Warpnet**](https://warpnet.nl/) • Full-time \
+Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`, `Prometheus` \
+Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-salt-lint](https://github.com/warpnet/vscode-salt-lint)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/duo.jpeg?raw=true"/>](https://duo.nl/)
+
+**DevOps Engineer** \
+[**DUO**](https://duo.nl/) • Contract \
+Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` \
+<br/>
+<br/>
+
+Please find me on [LinkedIn](https://www.linkedin.com/in/roaldnefs/) for a more detailed description of my full work experience, education and certification.
+
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=shahibuzzaman&amp;show_icons=true" alt="GitHub Stats"></p>
 
