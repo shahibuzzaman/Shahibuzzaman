@@ -50,10 +50,16 @@ I am a Full Stack Developer with 3+ years of experience in developing enterprise
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
     <img alt="android-studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
     <img alt="vs-code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+    <img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
 
 
   
 </p>
+
+:page_with_curl: I'm currently learning:
+<br><br>
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=flat-square&logo=fastify&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahibuzzaman&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
