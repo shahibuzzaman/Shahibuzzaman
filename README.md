@@ -48,7 +48,7 @@ I am a Full Stack Developer with 3+ years of experience in developing enterprise
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white" />
-    <img alt="android-studio" src="https://img.shields.io/badge/Android_Studio-32DE84?style=flat-square&logo=android-studio&logoColor=white" />
+    <img alt="android-studio" src="https://img.shields.io/badge/Android_Studio-32DE84?style=flat-square&logo=android-studio&logoColor=blue" />
     <img alt="vs-code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
     <img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
     
@@ -96,14 +96,6 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/roaldnefs/) for a more 
 
 ![dark](https://raw.githubusercontent.com/shahibuzzaman/shahibuzzaman/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
 
-:page_with_curl: I'm currently learning:
-<br><br>
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 :star: Here are some projects that I'm working on:
 - [Nekoya](https://github.com/Nekoya-Site)
