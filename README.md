@@ -27,6 +27,22 @@ I am a Full Stack Developer with 3+ years of experience in developing enterprise
     <img alt="MUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
     <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
     <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+    <img alt="es-lint" src="https://img.shields.io/badge/eslint-3A33D1?style=flat-square&logo=eslint&logoColor=white" />
+    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+    <img alt="vs-code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
+    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+    <img alt="jest" src="https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white" />
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+    <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
+
+
+
+
+
+
+
 
 
 
@@ -37,31 +53,22 @@ I am a Full Stack Developer with 3+ years of experience in developing enterprise
 
 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   
 
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
 
-  <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
   <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="sequelize" src="https://img.shields.io/badge/sequelize-323330?style=flat-square&logo=sequelize&logoColor=blue" />
   <img alt="jwt" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=flat-square&logo=json-web-tokens&logoColor=pink" />
-  <img alt="jest" src="https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white" />
   <img alt="firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white" />
   <img alt="android-studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
-  <img alt="vs-code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
-  <img alt="es-lint" src="https://img.shields.io/badge/eslint-3A33D1?style=flat-square&logo=eslint&logoColor=white" />
   <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-squar&logo=swagger&logoColor=white" />
   <img alt="amazonaws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-squar&logo=amazonaws&logoColor=white" />
