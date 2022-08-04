@@ -2,7 +2,7 @@
 
 
 
-<p align="center"><a href="https://www.twitter.com/shahibuzzaman"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/shahibuzzaman"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/shahibuzzaman"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height=25></a>  </p>
+<p align="center"><a href="https://www.twitter.com/shahibuzzaman"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/shahibuzzaman"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>   </p>
 
 
 I am a Full Stack Developer with 3+ years of experience in developing enterprise applications.
@@ -97,20 +97,9 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/roaldnefs/) for a more 
 
 ![dark](https://raw.githubusercontent.com/shahibuzzaman/shahibuzzaman/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
 
-
-:star: Here are some projects that I'm working on:
-- [Nekoya](https://github.com/Nekoya-Site)
-- [Easy Learn](https://github.com/Easy-Learn/App/releases/tag/v1.0.1)
-- [Neonime App](https://install.appcenter.ms/users/moepoi/apps/neonime/distribution_groups/public)
-- [Nepgear](https://t.me/NepgearBot)
-- [WhoisBot](https://t.me/WhoisBot)
-- [Moe API](https://beta.moe.team)
-
-<details>
 <summary>:trophy: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=shahibuzzaman&amp;show_icons=true" alt="GitHub Stats">
-<img src="https://github-profile-trophy.vercel.app/?username=shahibuzzaman">
-</details>
+
 
 <p align="left">
   <img
