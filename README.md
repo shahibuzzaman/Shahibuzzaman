@@ -35,7 +35,7 @@ I am a Full Stack Developer with 3+ years of experience in developing enterprise
     <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
     <img alt="jest" src="https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-    <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
+    <img alt="ExpressJS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
 
 
 
