@@ -39,6 +39,7 @@ I am a Full Stack Developer with 3+ years of experience in developing enterprise
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="sequelize" src="https://img.shields.io/badge/sequelize-323330?style=flat-square&logo=sequelize&logoColor=blue" />
     <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+    <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" />
     <img alt="jwt" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=flat-square&logo=json-web-tokens&logoColor=pink" />
     <img alt="swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-squar&logo=swagger&logoColor=white" />
     <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
