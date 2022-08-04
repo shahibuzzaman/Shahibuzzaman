@@ -72,6 +72,8 @@ I am a Full Stack Developer with 3+ years of experience in developing enterprise
   <br />
 </div>
 
+<div><h3>Work Experience</h3></div>
+
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
