@@ -19,6 +19,7 @@ I am a Full Stack Developer with 3+ years of experience in developing enterprise
     <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
     <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
     <img alt="GatsbyJS" src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white" />
+    <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
 
 
 
