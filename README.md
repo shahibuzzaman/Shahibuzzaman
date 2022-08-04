@@ -24,7 +24,7 @@ I am a Full Stack Developer with 3+ years of experience in developing enterprise
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-    <img alt="MUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
+    <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white" />
     <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
     <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
     <img alt="es-lint" src="https://img.shields.io/badge/eslint-3A33D1?style=flat-square&logo=eslint&logoColor=white" />
