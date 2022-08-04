@@ -11,7 +11,7 @@ I am a Full Stack Developer with 3+ years of experience in developing enterprise
 <p>
     <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-squar&logo=javascript&logoColor=F7DF1E" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=flat-squar&logo=python&logoColor=white" />
+    <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black" /> 
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
@@ -27,7 +27,7 @@ I am a Full Stack Developer with 3+ years of experience in developing enterprise
     <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white" />
     <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
     <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-    <img alt="es-lint" src="https://img.shields.io/badge/eslint-3A33D1?style=flat-square&logo=eslint&logoColor=white" />
+    <img alt="es-lint" src="https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white" />
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
     <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -48,9 +48,11 @@ I am a Full Stack Developer with 3+ years of experience in developing enterprise
     <img alt="amazonaws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-squar&logo=amazonaws&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+    ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
     <img alt="android-studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
     <img alt="vs-code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
     <img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
+    
 
 
   
@@ -60,6 +62,7 @@ I am a Full Stack Developer with 3+ years of experience in developing enterprise
 <br><br>
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=flat-square&logo=fastify&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahibuzzaman&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
