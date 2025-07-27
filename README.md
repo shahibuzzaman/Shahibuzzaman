@@ -50,10 +50,6 @@ I am a Full Stack Developer with 5+ years of experience in developing enterprise
     <img alt="android-studio" src="https://img.shields.io/badge/Android_Studio-32DE84?style=flat-square&logo=android-studio&logoColor=blue" />
     <img alt="vs-code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
     <img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
-    ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-    ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=flat-square&logo=fastify&logoColor=white)
-    ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=flat-square&logo=gatsby&logoColor=white)
-    ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white)
     
 
 
