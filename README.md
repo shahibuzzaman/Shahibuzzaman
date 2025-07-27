@@ -65,19 +65,6 @@ I am a Full Stack Developer with 5+ years of experience in developing enterprise
   <br />
 </div>
 
-<div><h3>Work Experience</h3></div>
-
-In the overview below you will find my most recent work experience:
-
-
-[<img align="left" height="100px" width="140px" alt="Warpnet" src="https://i.postimg.cc/Nf2dmnmC/UBS-LOGO.jpg"/>](https://warpnet.nl/)
-
-**Software Engineer** \
-[**UNISOFT BUSINESS SOLUTIONS LTD.**](https://ubs-bd.com/) • Full-time (04/2019 - Present) \
-Languages & Technologies: `Python` `JavaScript` `React` `React Native` `Node.js` `Express JS` `Next.js` `MySQL` `MongoDB` `GraphQL` \
-Featured Projects: [KPI Automation](https://github.com/warpnet/salt-lint), [MTS](https://github.com/warpnet/vscode-salt-lint), [COMPLY](https://github.com/warpnet/vscode-salt-lint), [Cheque Book](https://github.com/warpnet/vscode-salt-lint), [Cleopatra]
-<br/>
-
 
 <br/>
 <br/>
