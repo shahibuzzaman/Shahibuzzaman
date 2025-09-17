@@ -1,5 +1,8 @@
-<h2 align="center">👋 Hello World, I'm Shahibuzzaman.</h2>
+### 👋 Hi there, I'm Shahibuzzaman!
 
+---
+
+![](https://komarev.com/ghpvc/?username=shahibuzzaman&color=fb4362)
 
 
 <p align="center"><a href="https://www.twitter.com/shahibuzzaman"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/shahibuzzaman"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>   </p>
@@ -7,7 +10,7 @@
 
 I am a Full Stack Developer with 5+ years of experience in developing enterprise applications.
 
-<h3>Things I code with</h3>
+<h3>When I code, I rely on</h3>
 <p>
     <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-squar&logo=javascript&logoColor=F7DF1E" />
     <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
@@ -80,11 +83,4 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/roaldnefs/) for a more 
 <summary>:trophy: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=shahibuzzaman&amp;show_icons=true" alt="GitHub Stats">
 
-
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=shahibuzzaman"
-    alt="gargakshit"
-  />
-</p>
 
