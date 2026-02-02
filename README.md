@@ -8,7 +8,7 @@
 <p align="center"><a href="https://www.twitter.com/shahibuzzaman"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/shahibuzzaman"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>   </p>
 
 
-I am a Full Stack Developer with 5+ years of experience in developing enterprise applications.
+I am a Full Stack Developer with 6+ years of experience in developing enterprise applications.
 
 <h3>When I code, I rely on</h3>
 <p>
